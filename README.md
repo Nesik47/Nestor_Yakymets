@@ -29,7 +29,7 @@
 
 ### 📊 GitHub Stats
 
-![Nestor's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Nestor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nesik47&show_icons=true&theme=tokyonight)
 
 ### 🎯 2025 Goals
 
@@ -50,4 +50,4 @@ Started my journey in frontend development, but fell in love with the infrastruc
 
 ---
 
-⭐️ From [nestor-yakymets](https://github.com/YOUR_USERNAME)
+⭐️ From [nestor-yakymets](https://github.com/Nesik47)
